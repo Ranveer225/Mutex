@@ -1,5 +1,4 @@
 package org.example;
-
 class MutexData {
     int data;
 
@@ -28,3 +27,5 @@ public class MutexThreadSync {
         reader.join();
     }
 }
+
+
